@@ -1,5 +1,7 @@
 <div align="center">
 
+![Logo FLISoL](./.assets/FLISoL-logo.png)
+
 # FLISoL - Pereira 2023
 
 La ciudad de Pereira, tras muchos años sin participar, se une nuevamente al festival FLISoL con la ayuda de la Universidad Tecnológica de Pereira (UTP), los semilleros del programa de ingeniería en sistemas y computación; renovando el enfoque al software libre, la creación de comunidad y la filosofía libre en el corredor natural de Colombia
