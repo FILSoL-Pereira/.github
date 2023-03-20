@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo FLISoL](../.assets/FLISoL-logo.png)
+![Logo FLISoL](https://raw.githubusercontent.com/FILSoL-Pereira/.github/main/.assets/FLISoL.png)
 
 # FLISoL - Pereira 2023
 
@@ -107,7 +107,7 @@ La ciudad de Pereira, tras muchos años sin participar, se une nuevamente al fes
 
 ### Semillero: Backbone
 
-![Backbone](../.assets/backbone.png)
+![Backbone](https://raw.githubusercontent.com/FILSoL-Pereira/.github/main/.assets/backbone.png)
 
 <p>
   <a href="https://www.instagram.com/backboneutp/" target="blank">
@@ -150,7 +150,7 @@ Sergio Estrella
 
 ### Semillero: Joint Developer
 
-![Joint Developer](../.assets/joint.png)
+![Joint Developer](https://raw.githubusercontent.com/FILSoL-Pereira/.github/main/.assets/joint.png)
 
 <p>
   <a href="https://instagram.com/jointdeveloper?igshid=ZDdkNTZiNTM=" target="blank">
@@ -180,7 +180,7 @@ Ana Jiménez
 
 ### Semillero: SONAR I.S.C
 
-![Sonar ISC](../.assets/sonar.png)
+![Sonar ISC](https://raw.githubusercontent.com/FILSoL-Pereira/.github/main/.assets/sonar.png)
 
 <p>
   <a href="https://www.instagram.com/sonar_utp/" target="blank">
