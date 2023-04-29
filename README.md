@@ -103,6 +103,19 @@ La ciudad de Pereira, tras muchos años sin participar, se une nuevamente al fes
   </p>
 </div>
 
+
+<div align="center">
+
+### Grupo de investigación: Sirius
+
+![Sirius](./.assets/sirius_black_long.png)
+
+#### Líder
+
+Doc. José A. Jaramillo Villegas
+
+</div>
+
 <div align="center">
 
 ### Semillero: Backbone
@@ -214,7 +227,7 @@ Sebastián Agudelo
 
 ### Semillero: SAND
 
-![Sonar ISC](./.assets/sand.png)
+![SAND](./.assets/sand.png)
 
 <p>
   <a href="mailto:Semillero.sandutp@gmail.com" target="blank">
