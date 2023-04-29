@@ -209,3 +209,25 @@ Juan Alejandro Pérez |
 Sebastián Agudelo
 
 </div>
+
+<div align="center">
+
+### Semillero: SAND
+
+![Sonar ISC](./.assets/sand.png)
+
+<p>
+  <a href="mailto:Semillero.sandutp@gmail.com" target="blank">
+    <img
+      src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=Linux"
+      alt="Mail: SAND"
+    />
+  </a>
+</p>
+
+#### Líderes
+
+Valentina Sanchez Mosquera |
+Esteban Escalante Cordoba
+
+</div>
