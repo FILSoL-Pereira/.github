@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo FLISoL](https://raw.githubusercontent.com/FILSoL-Pereira/.github/main/.assets/FLISoL.png)
+![Logo FLISoL](./.assets/FLISoL-logo.png)
 
 # FLISoL - Pereira 2023
 
@@ -103,11 +103,24 @@ La ciudad de Pereira, tras muchos años sin participar, se une nuevamente al fes
   </p>
 </div>
 
+
+<div align="center">
+
+### Grupo de investigación: Sirius
+
+![Sirius](./.assets/sirius_black_long.png)
+
+#### Líder
+
+Doc. José A. Jaramillo Villegas
+
+</div>
+
 <div align="center">
 
 ### Semillero: Backbone
 
-![Backbone](https://raw.githubusercontent.com/FILSoL-Pereira/.github/main/.assets/backbone.png)
+![Backbone](./.assets/backbone.png)
 
 <p>
   <a href="https://www.instagram.com/backboneutp/" target="blank">
@@ -150,7 +163,7 @@ Sergio Estrella
 
 ### Semillero: Joint Developer
 
-![Joint Developer](https://raw.githubusercontent.com/FILSoL-Pereira/.github/main/.assets/joint.png)
+![Joint Developer](./.assets/joint.png)
 
 <p>
   <a href="https://instagram.com/jointdeveloper?igshid=ZDdkNTZiNTM=" target="blank">
@@ -180,7 +193,7 @@ Ana Jiménez
 
 ### Semillero: SONAR I.S.C
 
-![Sonar ISC](https://raw.githubusercontent.com/FILSoL-Pereira/.github/main/.assets/sonar.png)
+![Sonar ISC](./.assets/sonar.png)
 
 <p>
   <a href="https://www.instagram.com/sonar_utp/" target="blank">
@@ -207,5 +220,27 @@ Ana Jiménez
 
 Juan Alejandro Pérez |
 Sebastián Agudelo
+
+</div>
+
+<div align="center">
+
+### Semillero: SAND
+
+![SAND](./.assets/sand.png)
+
+<p>
+  <a href="mailto:Semillero.sandutp@gmail.com" target="blank">
+    <img
+      src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=Linux"
+      alt="Mail: SAND"
+    />
+  </a>
+</p>
+
+#### Líderes
+
+Valentina Sanchez Mosquera |
+Esteban Escalante Cordoba
 
 </div>
