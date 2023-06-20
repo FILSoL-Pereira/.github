@@ -103,6 +103,29 @@ La ciudad de Pereira, tras muchos años sin participar, se une nuevamente al fes
   </p>
 </div>
 
+</div>
+
+<div style="display: inline-block; width: 49%; vertical-align: top;">
+
+  <h3 align="center">
+    Frederick Johan Castañeda Perez
+  </h3>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/frederick-castañeda-perez/" target="blank">
+      <img
+        src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+        alt="LinkedIn: frederick-castañeda-perez"
+      />
+    </a>
+    <a href="https://github.com/xcerock" target="blank">
+      <img
+        src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=GitHub"
+        alt="GitHub: @xcerock"
+      />
+    </a>
+  </p>
+</div>
 
 <div align="center">
 
