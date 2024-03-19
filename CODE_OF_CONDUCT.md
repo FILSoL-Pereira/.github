@@ -1,53 +1,62 @@
-# Código de Conducta del FLISoL
+# **Código de Conducta del Festival Latinoamericano de Instalación de Software Libre (FLISoL) 🌎✨**
 
-El FLISoL (Festival Latinoamericano de Instalación de Software Libre) está comprometido con ser un evento que muestre humanidad entre los participantes: respeto, colaboración y apoyo mutuo.
+El FLISoL se compromete a ser un evento **inclusivo y diverso**, donde el **respeto mutuo**, la **colaboración** y la **innovación** en el ámbito del **Software Libre** sean los pilares fundamentales de nuestra comunidad.
 
-## Nuestro Compromiso
+---
 
-Queremos una comunidad productiva, feliz y ágil que pueda acoger nuevas ideas en un campo complejo, mejorar cada proceso año con año y fomentar la colaboración entre grupos con diferentes necesidades, intereses y habilidades.
+## 📜 **Nuestro Compromiso**
 
-Valoramos la diversidad y buscamos activamente la participación de quienes la enriquecen. Este código de conducta existe para asegurar que diferentes grupos colaboren con ventaja y disfrute mutuos. Desafiaremos los prejuicios que puedan poner en riesgo la participación de cualquier persona en el proyecto.
+Nos esforzamos por crear un ambiente **acogedor y productivo**, donde la diversidad de ideas, habilidades, y perspectivas sean la base para la innovación y el crecimiento continuo. Valoramos y fomentamos la participación de todas las personas, independientemente de su identidad, origen, o nivel de experiencia.
 
-## Nuestro Estándar
+---
 
-Esperamos que este código sea honrado por todos quienes representen al proyecto de manera oficial o informal, afirmen afiliación con el proyecto o participen directamente.
+## ✨ **Conducta Esperada**
 
-Nos esforzamos por:
+- **Respeto y Empatía**: Asumimos buenas intenciones en las interacciones, buscando entender y valorar las diferentes perspectivas. El respeto es fundamental, incluso en el desacuerdo.
 
-- **Ser considerados**: Nuestro trabajo será utilizado por otras personas, y a su vez dependeremos del trabajo de los demás. Cualquier decisión que tomemos afectará a usuarios y colegas, y deberíamos considerarlos al tomar decisiones.
+- **Responsabilidad**: Aceptamos y aprendemos de nuestros errores, buscando rectificar y mejorar constantemente.
 
-- **Ser respetuosos**: El desacuerdo no es excusa para malos modales. Trabajamos juntos para resolver conflictos, asumimos buenas intenciones y hacemos nuestro mejor esfuerzo para actuar de una manera empática.
+- **Colaboración Activa**: Valoramos el trabajo en equipo y la contribución de cada individuo hacia objetivos comunes. La cooperación y la asistencia mutua son esenciales.
 
-- **Tomar responsabilidad por nuestras palabras y nuestras acciones**: Todos podemos cometer errores; cuando lo hacemos, asumimos la responsabilidad por ellos. Si alguien ha sido dañado o ofendido, escuchamos cuidadosamente y respetuosamente, y trabajamos para corregir el error.
+- **Comunicación Clara y Positiva**: Fomentamos una comunicación abierta y honesta, esencial para la resolución de conflictos y el avance colectivo.
 
-- **Ser colaborativos**: Lo que producimos es un todo complejo hecho de muchas partes, es la suma de muchos sueños. La colaboración entre equipos que cada uno tiene su propio objetivo y visión es esencial.
+- **Inclusión y Diversidad**: Nos comprometemos a promover un entorno seguro y acogedor para todos, celebrando activamente la diversidad de nuestra comunidad.
 
-- **Valorar la decisión, claridad y consenso**: Esperamos que los participantes en el proyecto resuelvan desacuerdos de manera constructiva.
+---
 
-- **Pedir ayuda cuando esté inseguro**: Nadie espera que sea perfecto en esta comunidad. Preguntar temprano evita muchos problemas más tarde.
+## 🚫 **Política de Tolerancia Cero hacia el Acoso**
 
-- **Despedirse consideradamente**: Cuando alguien se va o se desvincula del proyecto, pedimos que lo hagan de manera que minimice la interrupción al proyecto.
+El FLISoL adopta una postura firme contra el acoso en todas sus formas. No toleramos conductas que involucren intimidación, discriminación, o cualquier forma de acoso, ya sea presencial o virtual. Las acciones ofensivas serán abordadas con seriedad, pudiendo incluir la expulsión del evento.
 
-## Liderazgo
+---
 
-- Todos lideramos con el ejemplo, en debate y en acción. Animamos a nuevos participantes a sentirse empoderados para liderar, tomar acción y experimentar.
+## 👥 **Liderazgo Inclusivo y Meritocracia Abierta**
 
-- Valoramos la discusión, los datos y la decisión. Reconocemos que el proyecto funciona mejor cuando confiamos en los equipos más cercanos al problema para tomar la decisión por el proyecto.
+Promovemos un liderazgo accesible y un entorno donde la meritocracia prevalezca. Reconocemos y valoramos las contribuciones basadas en la calidad y relevancia, independientemente del origen o estatus del contribuyente.
 
-## Meritocracia Abierta
+---
 
-- Invitamos a cualquiera, de cualquier empresa, a participar en cualquier aspecto del proyecto. Nuestra comunidad es abierta, y cualquier responsabilidad puede ser llevada por cualquier contribuyente que demuestre la capacidad y competencia requeridas.
+## 🌈 **Inclusión y Diversidad**
 
-## Trabajo en Equipo
+### MUJERES
 
-- El objetivo principal de un líder es el éxito del equipo.
+Reconocemos que la participación de mujeres en las comunidades FLOSS es significativamente baja, con estudios como una encuesta de GitHub en 2017 mostrando que solo el 3% de las contribuciones en FLOSS son realizadas por mujeres. Como organizadores, nos comprometemos a fomentar la inclusión de mujeres en todos los roles dentro de nuestra comunidad, incluyendo equipos organizadores, conferencistas, talleristas e instaladores. Trabajaremos activamente para ofrecer espacios seguros y brindar mentoría, apoyando su participación y liderazgo en el Software Libre.
 
-## Conflictos de Interés
+---
 
-- Esperamos que los líderes sean conscientes cuando estén en conflicto debido al empleo u otros proyectos en los que estén involucrados, y se abstengan o deleguen decisiones que puedan verse como de interés propio.
+## 🤝 **Resolución de Conflictos**
 
-## Resolución de Conflictos
+Ante cualquier duda o inquietud relacionada con este Código de Conducta, o para reportar una situación de violación del mismo, por favor, contacta sin dudar a:
 
-Si un miembro de la comunidad siente que ha habido una violación de este Código de Conducta, se le alienta a llevarlo adelante a José Felipe Duarte Coronado (cel: 3043513394) para su revisión.
+- **Jose Felipe Duarte Coronado - WhatsApp**: [https://wa.me/573043513394](https://wa.me/573043513394)
+- **Andrés Manuel Prieto Álvarez - Correo**: [andres.prieto@utp.edu.co](mailto:andres.prieto@utp.edu.co)
+- **Ana Sofía Beltrán Ríos - Correo**: [anasofia.beltran@utp.edu.co](mailto:anasofia.beltran@utp.edu.co)
 
-Este Código no es exhaustivo o completo. No es un libro de reglas; sirve para destilar nuestro entendimiento común de un ambiente colaborativo y compartido y metas. Esperamos que sea seguido tanto en espíritu como en letra.
+Nos comprometemos a escuchar y actuar de manera justa y oportuna para resolver cualquier asunto presentado.
+
+---
+
+Este Código de Conducta refleja nuestro compromiso con una comunidad de Software Libre más inclusiva, respetuosa y colaborativa. Esperamos que todos los participantes lo sigan en **espíritu y acción**, contribuyendo así a un FLISoL exitoso y enriquecedor para todos.
+
+
+Este código de conducta se basa en el [código de conducta de Ubuntu V2](https://ubuntu.com/community/ethos/code-of-conduct) y también del [FLISoL](https://flisol.info/CodigoDeConducta). Se comparte bajo la licencia Creative Commons Atribución – No comercial – Compartir igual.
