@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo FLISoL](../.assets/20y/FLISoL-logo.png)
+![Logo FLISoL](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/FLISoL-logo.png?raw=true)
 
 # FLISoL - Pereira 2024
 
@@ -88,7 +88,7 @@
 
 ### Grupo de investigación: Sirius
 
-![Sirius](../.assets/20y/sirius_black_long.png)
+![Sirius](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/sirius_black_long.png?raw=true)
 
 #### Líder
 
@@ -100,7 +100,7 @@ Doc. José A. Jaramillo Villegas
 
 ### Semillero: Backbone
 
-![Backbone](../.assets/20y/backbone.png)
+![Backbone](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/backbone.png?raw=true)
 
 <p>
   <a href="https://www.instagram.com/backboneutp/" target="blank">
@@ -143,7 +143,7 @@ Sergio Estrella
 
 ### Semillero: SONAR I.S.C
 
-![Sonar ISC](../.assets/20y/sonar.png)
+![Sonar ISC](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/sonar.png?raw=true)
 
 <p>
   <a href="https://www.instagram.com/sonar_utp/" target="blank">
