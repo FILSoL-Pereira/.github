@@ -48,9 +48,9 @@ Reconocemos que la participación de mujeres en las comunidades FLOSS es signifi
 
 Ante cualquier duda o inquietud relacionada con este Código de Conducta, o para reportar una situación de violación del mismo, por favor, contacta sin dudar a:
 
-- **Jose Felipe Duarte Coronado - WhatsApp**: [https://wa.me/573043513394](https://wa.me/573043513394)
-- **Andrés Manuel Prieto Álvarez - Correo**: [andres.prieto@utp.edu.co](mailto:andres.prieto@utp.edu.co)
-- **Ana Sofía Beltrán Ríos - Correo**: [anasofia.beltran@utp.edu.co](mailto:anasofia.beltran@utp.edu.co)
+- **Jose Felipe Duarte Coronado - WhatsApp**: [Contacto](https://wa.me/573043513394)
+- **Andrés Manuel Prieto Álvarez - Correo**: [Contacto](mailto:andres.prieto@utp.edu.co)
+- **Ana Sofía Beltrán Ríos - Correo**: [Contacto](mailto:anasofia.beltran@utp.edu.co)
 
 Nos comprometemos a escuchar y actuar de manera justa y oportuna para resolver cualquier asunto presentado.
 

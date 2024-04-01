@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo FLISoL](./.assets/FLISoL-logo.png)
+![Logo FLISoL](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/FLISoL-logo.png?raw=true)
 
 # FLISoL - Pereira 2024
 
@@ -84,33 +84,11 @@
   </p>
 </div>
 
-<div style="display: inline-block; width: 49%; vertical-align: top;">
-
-  <h3 align="center">
-    Frederick Johan Castañeda Perez
-  </h3>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/frederick-castañeda-perez/" target="blank">
-      <img
-        src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
-        alt="LinkedIn: frederick-castañeda-perez"
-      />
-    </a>
-    <a href="https://github.com/xcerock" target="blank">
-      <img
-        src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=GitHub"
-        alt="GitHub: @xcerock"
-      />
-    </a>
-  </p>
-</div>
-
 <div align="center">
 
 ### Grupo de investigación: Sirius
 
-![Sirius](./.assets/sirius_black_long.png)
+![Sirius](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/sirius_black_long.png?raw=true)
 
 #### Líder
 
@@ -122,7 +100,7 @@ Doc. José A. Jaramillo Villegas
 
 ### Semillero: Backbone
 
-![Backbone](./.assets/backbone.png)
+![Backbone](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/backbone.png?raw=true)
 
 <p>
   <a href="https://www.instagram.com/backboneutp/" target="blank">
@@ -165,7 +143,7 @@ Sergio Estrella
 
 ### Semillero: SONAR I.S.C
 
-![Sonar ISC](./.assets/sonar.png)
+![Sonar ISC](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/sonar.png?raw=true)
 
 <p>
   <a href="https://www.instagram.com/sonar_utp/" target="blank">
