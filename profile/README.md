@@ -16,6 +16,15 @@
 </div>
 
 <div align="center">
+  <h2>Importancia del Código Libre y la Comunidad Colaborativa</h2>
+
+  <p>La filosofía del FLISoL se centra en la promoción del uso y desarrollo de software libre, algo que no sería posible sin la colaboración continua de la comunidad. A continuación, se presentan dos diagramas que explican la interacción entre el código libre y la comunidad colaborativa, así como los principios fundamentales del software libre.</p>
+
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/QueEsSoftwareLibre.png?raw=true" width="25%"/>
+    <img src="https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/CodigoLibreComunidad.png?raw=true" width="25%"/>
+  </div>
+</div>
 
 ## Organizadores
 
@@ -23,15 +32,19 @@
 
 <div style="display: inline-block; width: 49%; vertical-align: top;">
 
+<div align="center">
+  <img src="https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/andres.png?raw=true" alt="AndresMpa" width="200"/>
+
   <h3 align="center">
     Andrés Manuel Prieto Álvarez
   </h3>
+</div>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/andres-m-prieto/" target="blank">
+    <a href="https://www.linkedin.com/in/andresmpa/" target="blank">
       <img
         src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
-        alt="LinkedIn: andres-m-prieto"
+        alt="LinkedIn: andresmpa"
       />
     </a>
     <a href="https://github.com/AndresMpa" target="blank">
@@ -42,9 +55,13 @@
     </a>
   </p>
 
+<div align="center">
+  <img src="https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/Jose.png?raw=true" alt="josefdc" width="200"/>
+
   <h3 align="center">
-    José Felipe Duarte Colorado 
+    José Felipe Duarte Colorado
   </h3>
+</div>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/josefeldc/" target="blank">
@@ -64,9 +81,13 @@
 
 <div style="display: inline-block; width: 49%; vertical-align: top;">
 
+<div align="center">
+  <img src="https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/ana.png?raw=true" alt="anasofibel" width="200"/>
+
   <h3 align="center">
     Ana Sofía Beltran
   </h3>
+</div>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/anasofiabeltran/" target="blank">
@@ -79,6 +100,29 @@
       <img
         src="https://img.shields.io/badge/-artstation-black?style=for-the-badge&logo=ArtStation"
         alt="ArtStation: @anasofibel"
+      />
+    </a>
+  </p>
+
+<div align="center">
+  <img src="https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/tux.svg?raw=true" alt="Esca01" width="200"/>
+
+  <h3 align="center">
+    Esteban Escalante Cordoba
+  </h3>
+</div>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/estebanescor/" target="blank">
+      <img
+        src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+        alt="LinkedIn: estebanescor"
+      />
+    </a>
+    <a href="https://github.com/Esca01" target="blank">
+      <img
+        src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=GitHub"
+        alt="ArtStation: @Esca01"
       />
     </a>
   </p>
@@ -103,6 +147,12 @@ Doc. José A. Jaramillo Villegas
 ![Backbone](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/backbone.png?raw=true)
 
 <p>
+  <a href="https://www.linkedin.com/company/backboneutp/" target="blank">
+      <img
+        src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+        alt="LinkedIn: backboneutp"
+      />
+    </a>
   <a href="https://www.instagram.com/backboneutp/" target="blank">
     <img
       src="https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram"
@@ -127,15 +177,19 @@ Doc. José A. Jaramillo Villegas
       alt="GitHub: @Backbone-UTP"
     />
   </a>
+  <a href="mailto:backboneutp@gmail.com" target="blank">
+    <img
+      src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=Linux"
+      alt="Mail: Backbone"
+    />
+  </a>
 </p>
 
 #### Líderes
 
-Paula Andrea Castro |
-Jhon Alex Gaviria |
-Nicole Rios |
-Susana Perez |
-Sergio Estrella
+[Paula Andrea Castro](https://www.linkedin.com/in/paula-a-castro/) <[@paulacastro1](https://github.com/paulacastro1)> |
+[Jhon Alex Gaviria](https://www.linkedin.com/in/jgaviria0/) <[@JGaviria0](https://github.com/JGaviria0)> |
+[Sergio Daniel Estrella](https://www.linkedin.com/in/djkde/) <[@Djkde01](https://github.com/Djkde01)>
 
 </div>
 
@@ -168,7 +222,74 @@ Sergio Estrella
 
 #### Líderes
 
-Juan Alejandro Pérez |
-Sebastián Agudelo
+[Juan Alejandro Pérez Bermudez](https://www.linkedin.com/in/mega-barto/) <[@Mega-Barto](https://github.com/Mega-Barto)> |
+[Sebastián Agudelo Morales](https://www.linkedin.com/in/sebastian-agudelo-morales-367970241) |
+[Diego Alejandro Cruz Bedoya](https://www.linkedin.com/in/dacb19)
+
+</div>
+
+<div align="center">
+
+### Semillero: SAND
+
+![SAND](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/sand.png?raw=true)
+
+<p>
+  <a href="https://www.instagram.com/sandutp/" target="blank">
+    <img
+      src="https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram"
+      alt="Instagram: sandutp"
+    />
+  </a>
+  <a href="mailto:Semillero.sandutp@gmail.com" target="blank">
+    <img
+      src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=Linux"
+      alt="Mail: SAND"
+    />
+  </a>
+</p>
+
+#### Líderes
+
+[Valentina Sanchez Mosquera](https://www.linkedin.com/in/valentina-sanchez-mosquera-a1b93a249/) |
+[Esteban Escalante Cordoba](https://www.linkedin.com/in/estebanescor/) <[@Esca01](https://github.com/Esca01)> |
+[Mateo Correa](mailto:m.correa3@utp.edu.co) <[@matt_co](https://www.instagram.com/matt__co/)>
+
+</div>
+
+<div align="center">
+
+### Semillero: SIV
+
+![SAND](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/SIV.png?raw=true)
+
+<p>
+  <a href="https://www.instagram.com/semillero_videojuegos_utp/" target="blank">
+    <img
+      src="https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram"
+      alt="Instagram: semillero_videojuegos_utp"
+    />
+  </a>
+  <a href="mailto:semillero.videojuegos1@gmail.com" target="blank">
+    <img
+      src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=Linux"
+      alt="Mail: SIV"
+    />
+  </a>
+</p>
+
+#### Líderes
+
+[Andres Felipe Rodas Rengifo](mailto:andres.rodas@utp.edu.co) |
+[Cristhian Andres Grajales Perez](https://www.linkedin.com/in/cristhian-andres-grajales-perez/) |
+[Tomas Marin Ariza](https://www.linkedin.com/in/tomas-marin-b73412268/)
+
+</div>
+
+<div align="center">
+
+### Semillero: SNEIA
+
+![SNEIA](https://github.com/FILSoL-Pereira/.github/blob/main/.assets/20y/sneia.png?raw=true)
 
 </div>
