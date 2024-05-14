@@ -254,6 +254,8 @@ Doc. José A. Jaramillo Villegas
 
 </div>
 
+<div align="center">
+
 ### Semillero: SNEIA
 
 ![SNEIA](./.assets/20y/sneia.png)
