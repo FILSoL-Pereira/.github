@@ -114,6 +114,12 @@ Doc. José A. Jaramillo Villegas
 ![Backbone](./.assets/20y/backbone.png)
 
 <p>
+  <a href="https://www.linkedin.com/company/backboneutp/" target="blank">
+      <img
+        src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin"
+        alt="LinkedIn: backboneutp"
+      />
+    </a>
   <a href="https://www.instagram.com/backboneutp/" target="blank">
     <img
       src="https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram"
@@ -138,15 +144,19 @@ Doc. José A. Jaramillo Villegas
       alt="GitHub: @Backbone-UTP"
     />
   </a>
+  <a href="mailto:backboneutp@gmail.com" target="blank">
+    <img
+      src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=Linux"
+      alt="Mail: Backbone"
+    />
+  </a>
 </p>
 
 #### Líderes
 
-Paula Andrea Castro |
-Jhon Alex Gaviria |
-Nicole Rios |
-Susana Perez |
-Sergio Estrella
+[Paula Andrea Castro](https://www.linkedin.com/in/paula-a-castro/) <[@paulacastro1](https://github.com/paulacastro1)> |
+[Jhon Alex Gaviria](https://www.linkedin.com/in/jgaviria0/) <[@JGaviria0](https://github.com/JGaviria0)> |
+[Sergio Daniel Estrella](https://www.linkedin.com/in/djkde/) <[@Djkde01](https://github.com/Djkde01)>
 
 </div>
 
@@ -179,7 +189,73 @@ Sergio Estrella
 
 #### Líderes
 
-Juan Alejandro Pérez |
-Sebastián Agudelo
+[Juan Alejandro Pérez Bermudez](https://www.linkedin.com/in/mega-barto/) <[@Mega-Barto](https://github.com/Mega-Barto)> |
+[Sebastián Agudelo Morales](https://www.linkedin.com/in/sebastian-agudelo-morales-367970241) |
+[Diego Alejandro Cruz Bedoya](https://www.linkedin.com/in/dacb19)
+
+
+</div>
+
+<div align="center">
+
+### Semillero: SAND
+
+![SAND](./.assets/20y/sand.png)
+
+<p>
+  <a href="https://www.instagram.com/sandutp/" target="blank">
+    <img
+      src="https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram"
+      alt="Instagram: sandutp"
+    />
+  </a>
+  <a href="mailto:Semillero.sandutp@gmail.com" target="blank">
+    <img
+      src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=Linux"
+      alt="Mail: SAND"
+    />
+  </a>
+</p>
+
+#### Líderes
+
+[Valentina Sanchez Mosquera](https://www.linkedin.com/in/valentina-sanchez-mosquera-a1b93a249/) |
+[Esteban Escalante Cordoba](https://www.linkedin.com/in/estebanescor/) <[@Esca01](https://github.com/Esca01)> |
+[Mateo Correa](mailto:m.correa3@utp.edu.co) <[@matt_co](https://www.instagram.com/matt__co/)>
+
+</div>
+
+<div align="center">
+
+### Semillero: SIV
+
+![SAND](./.assets/20y/SIV.png)
+
+<p>
+  <a href="https://www.instagram.com/semillero_videojuegos_utp/" target="blank">
+    <img
+      src="https://img.shields.io/badge/-instagram-pink?style=for-the-badge&logo=instagram"
+      alt="Instagram: semillero_videojuegos_utp"
+    />
+  </a>
+  <a href="mailto:semillero.videojuegos1@gmail.com" target="blank">
+    <img
+      src="https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=Linux"
+      alt="Mail: SIV"
+    />
+  </a>
+</p>
+
+#### Líderes
+
+[Andres Felipe Rodas Rengifo](mailto:andres.rodas@utp.edu.co) |
+[Cristhian Andres Grajales Perez](https://www.linkedin.com/in/cristhian-andres-grajales-perez/) |
+[Tomas Marin Ariza](https://www.linkedin.com/in/tomas-marin-b73412268/)
+
+</div>
+
+### Semillero: SNEIA
+
+![SNEIA](./.assets/20y/sneia.png)
 
 </div>
