@@ -1,3 +1,5 @@
+Evento finalizado
+
 <div align="center">
 
 ![Logo FLISoL](./.assets/20y/FLISoL-logo.png)
