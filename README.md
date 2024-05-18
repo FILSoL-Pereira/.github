@@ -1,6 +1,6 @@
 <div align="center">
 
-# Evento finalizado
+# Evento finalizado, !Visitanos el siguiente año!
 
 </div>
 
