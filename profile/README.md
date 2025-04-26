@@ -19,7 +19,3 @@
   <h2>¿Por qué asistir al Festival Latinoamericano de Instalación de Software Libre?</h2>
 
   <p>La filosofía del FLISoL se centra en la promoción del uso y desarrollo de software libre, la comunidad, la colaboración, además del hacer amig@s son nuestras maximas. FLISoL para nosotros es un trabajo continuo con el que buscamos hacer un espacio agradable en el que podamos fomentar las relaciones interpersonales al rededor de un tema que nos gusta, el software, algo que no sería posible sin la colaboración de diversas comunidades, personas y empresas, es por eso que los FLISoL son un gran lugar si estos temas te interesan.</p>
-
-<div align="center">
-  <h2>Buscando espacios...</h2>
-</div>
