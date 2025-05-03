@@ -26,9 +26,10 @@
 
   <p>La filosofía del FLISoL se centra en la promoción del uso y desarrollo de software libre, algo que no sería posible sin la colaboración continua de la comunidad. A continuación, se presentan dos diagramas que explican la interacción entre el código libre y la comunidad colaborativa, así como los principios fundamentales del software libre.</p>
 
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="./.assets/QueEsSoftwareLibre.png" width="25%"/>
-    <img src="./.assets/CodigoLibreComunidad.png" width="25%"/>
-
-  </div>
 </div>
+
+## Inscripciones al festival
+
+https://flisolpereira.vercel.app/
+
+
