@@ -28,8 +28,13 @@
 
 </div>
 
+<div align="center">
+
 ## Inscripciones al festival
 
 https://flisolpereira.vercel.app/
+
+</div>
+
 
 
