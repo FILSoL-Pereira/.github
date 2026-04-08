@@ -1,16 +1,10 @@
 <div align="center">
 
-# Evento finalizado, ¡Visitanos el siguiente año!
-
-</div>
-
-<div align="center">
-
 ![Logo FLISoL](./.assets/20y/FLISoL-logo.png)
 
-# FLISoL - Pereira 2024
+# FLISoL - Pereira 2026
 
-¡Pereira repite FLISoL!, tras un genial año con más de 600 personas disfrutando del festival, este año la capital del Eje Cafetero se une nuevamente al Festival Latinoamericano de Instalación de Software Libre con la ayuda de la maravillosa Universidad Tecnológica de Pereira (UTP), con el apoyo de los semilleros del programa de ingeniería en sistemas y computación. Este año vamos por más talleres, más charlas y un evento más grande.
+¡Pereira vivirá el FLISoL un año más! Tras 2 años realizando este gran festival, la capital del Eje Cafetero se une nuevamente al Festival Latinoamericano de Instalación de Software Libre con la ayuda de la maravillosa Universidad Tecnológica de Pereira (UTP), con el apoyo de apasionados por esta gran iniciativa.
 
 <p>
   <img
@@ -32,7 +26,7 @@
 
 ## Inscripciones al festival
 
-https://flisolpereira.vercel.app/
+[Clic Aquí](https://flisolpereira.vercel.app/register)
 
 </div>
 
